@@ -1,6 +1,6 @@
 Autolock
 ========
-Are you onw of those who forget to block the computer when you leave? 
+Are you one of those who forget to block the computer when you leave? 
 Are your team members send emails using your account?
 
 Well, this is the right solution for you, just configure this simply script, and when you move away from your computer, I'll block it
